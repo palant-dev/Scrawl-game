@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8"> -->
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+    <img alt="Available soon on the App Store" title="App Store" src="https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/available-soon-shield.png" width="140">
   <!-- </a> -->
 </p>
 
@@ -25,6 +25,7 @@
 - [Score System](#score-system)
 - [The Research behind the game](#the-research-behind-the-game)
 - [Game difficulty](#game-difficulty)
+- [Contact me](#contact-me)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -62,8 +63,16 @@ While the player explores the desert, the distance from the starting point will 
 
 The desert is connected to Hopi culture of inner research and growth, and randomly Kachina will appear during the avatar's wandering. Kachina will grant special skills for surviving in the desert. 
 
+<p align="center">
+  <img src = "https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/Kachina_dolls.jpg" width=700>
+</p>
+
 ## Game difficulty
 
 As the avatar walks further into the desert, the player will encounter more significant challenges and obstacles. The game will become more challenging, and the player needs to be more strategic and careful to help the avatar survive.
 The goal of the game is to help the avatar survive as long as possible while exploring the desert.
+
+## Contact me
+
+If you want to contact me, reach me at antonio.palomba2015@gmail.com
 
