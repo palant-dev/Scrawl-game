@@ -39,7 +39,7 @@ The game starts with the player's avatar, made of scrawls, bound by ropes. The p
 Once the avatar is free, it enters a black and white stylized world, resembling a desert, with obstacles in the form of life events present to the avatar.
 
 <p align="center">
-  <img src = "https://cdn.discordapp.com/attachments/1040367488036249624/1089990028391874702/Antonio_Palomba_ball_point_pen_sketch_of_a_human_silhouette_c30aa3bc-e6a4-4577-87d4-718f56cc179c.png" width=700>
+  <img src = "https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/concept-design.jpg" width=700>
 </p>
 
 ## Goal of the game
@@ -64,7 +64,9 @@ While the player explores the desert, the distance from the starting point will 
 The desert is connected to Hopi culture of inner research and growth, and randomly Kachina will appear during the avatar's wandering. Kachina will grant special skills for surviving in the desert. 
 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/Kachina_dolls.jpg" width=700>
+  <img src = "https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/Kachina_dolls.jpg" width=200>
+  <img src = "https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/kachina-doll-concept1.jpg" width=200>
+  <img src = "https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/kachina-doll-concept2.jpg" width=200>
 </p>
 
 ## Game difficulty
