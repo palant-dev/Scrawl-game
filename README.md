@@ -18,7 +18,7 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
+- [Introductio](#introductio)
 - [Start a new game](#start-a-new-game)
 - [Goal of the game](#goal-of-the-game)
 - [End of the game](#end-of-the-game)
@@ -29,7 +29,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction
+## Introductio
 
 Scrawl is an arcade game that takes you on a journey through difficulties of inner research and growth.
 
