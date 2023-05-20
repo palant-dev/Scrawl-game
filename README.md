@@ -7,10 +7,7 @@
   Conquer your fears and find your way.
 </h4>
 
-<p align="center">
-  <!-- <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8"> -->
-    <img alt="Available soon on the App Store" title="App Store" src="https://raw.githubusercontent.com/palant-dev/Scrawl-game/main/repository-assets/available-soon-shield.png" width="140">
-  <!-- </a> -->
+
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
